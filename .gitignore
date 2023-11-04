@@ -28,8 +28,10 @@ replay_pid*
 *.original
 ride-service-gateway/.project
 ride-service-gateway/.classpath
-ride-service-gateway/target/maven-archiver/pom.properties
-ride-rating-service/target/maven-archiver/pom.properties
-ride-rating-service/target/classes/application.properties
+ride-service-gateway/target/*
+ride-rating-service/target/*
 ride-rating-service/.classpath
 ride-rating-service/.project
+ride-mgmt-discovery-service/target/*
+.idea/vcs.xml
+ride-mgmt-discovery-service/.classpath
