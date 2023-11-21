@@ -22,3 +22,16 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+.DS_Store
+*.lst
+*.prefs
+*.original
+ride-service-gateway/.project
+ride-service-gateway/.classpath
+ride-service-gateway/target/*
+ride-rating-service/target/*
+ride-rating-service/.classpath
+ride-rating-service/.project
+ride-mgmt-discovery-service/target/*
+.idea/vcs.xml
+ride-mgmt-discovery-service/.classpath
