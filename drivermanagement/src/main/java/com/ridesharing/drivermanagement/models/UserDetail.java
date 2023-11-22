@@ -3,9 +3,9 @@ package com.ridesharing.drivermanagement.models;
 import jakarta.persistence.*;
 
 @Entity
-@Table(name = "driver_detail")
+@Table(name = "user_detail")
 
-public class DriverDetail {
+public class UserDetail {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Integer id;
